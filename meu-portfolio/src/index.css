@@ -1,0 +1,5 @@
+/* Global reset — deixe vazio ou use este arquivo para sobrescrever estilos globais do Vite */
+#root {
+  min-height: 100vh;
+}
+ 
