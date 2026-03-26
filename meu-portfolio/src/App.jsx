@@ -195,8 +195,8 @@ function Hero({ typed }) {
       <div className="hero-inner">
         <div className="hero-label">Software Developer</div>
         <h1 className="hero-title">
-          Gabriel<br />
-          <span className="line2">Libiert<span className="typed">{typed}|</span></span>
+          Victhor<br />
+          <span className="line2">Gabriel<span className="typed">{typed}|</span></span>
         </h1>
         <p className="hero-desc">
           Building scalable web applications and intelligent systems.
